@@ -1,0 +1,24 @@
+{
+  "person" : {
+    "personnelNo": 543243,
+    "name": "Ali",
+    "lastname": "VELİ",
+    "gender": "Erkek",
+    "age" : 33,
+    "tcNumber": "24545487586",
+    "contactInfo": {
+      "email": "test@test.com",
+      "gsm": "+905854587858",
+      "address": "Mersin"
+    },
+    "businessInformation" :{
+      "title": "uzman",
+      "department": "IT",
+      "location": "Remote/Mersin",
+      "startingdate": "1716026533",
+      "status": "Aktif",
+      "managerName": "Mehmet Akif",
+      "wage": 50000.0
+    }
+  }
+}
