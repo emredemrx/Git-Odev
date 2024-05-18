@@ -1,0 +1,22 @@
+<person>
+    <pesonnelNo>543243</pesonnelNo>
+    <name>Ali</name>
+    <lastname>VELİ</lastname>
+    <gender>Erkek</gender>
+    <age>33</age>
+    <tcNumber>24545487586</tcNumber>
+    <contactInfo>
+        <email>test@test.com</email>
+        <gsm>+905854587858</gsm>
+        <adress>Mersin</adress>
+    </contactInfo>
+    <businessInformation>
+        <title>Uzman</title>
+        <department>IT</department>
+        <location>Remote/Mersin</location>
+        <startingdate>1716026533</startingdate>
+        <status>Aktif</status>
+        <managerName>Mehmet Akif</managerName>
+        <wage>50000.0</wage>
+    </businessInformation>
+</person>
